@@ -5,5 +5,5 @@ add a new line
 
 test modefy
 
-Creating a new branch is quick AND simple.
+Create a new branch is quick AND simple.
 
