@@ -3,4 +3,6 @@ Git is free software.
 
 add a new line
 
+和嘎嘎 
+
 test modefy
