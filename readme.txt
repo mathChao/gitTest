@@ -7,5 +7,8 @@ add a new line
 
 test modefy
 
-
-的空间给你看上电脑观看
+<<<<<<< HEAD
+Creating a new branch is quick AND simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> dev
